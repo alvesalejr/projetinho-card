@@ -8,13 +8,13 @@
   --text-color: white;
   --text-color2: aqua;
   --stroke-color: rgba(255, 255, 255, 0.5);
-  --bg-url: url(/assets/bg-mobile2.jpg);
+  --bg-url: url(/assets/bg.png);
   --switch-bg-url: url(/assets/moon-stars.svg);
 }
 
 .light {
   --text-color: black;
-  --bg-url: url(/assets/bg-mobile.png);
+  --bg-url: url(/assets/bg2.png);
   --stroke-color: rgba(0, 0, 0, 0.5);
   --switch-bg-url: url(/assets/sun.svg);
 }
