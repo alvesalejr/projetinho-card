@@ -22,7 +22,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 O Hi, Alessandro card. é um agregador de links para usar como cartão de visitas online.
 
-- [Acesse o projeto finalizado, online](https://alvesalejr.github.io/projeto-card/)
+- [Acesse o projeto finalizado, online](https://alvesalejr.github.io/projetinho-card/)
 
 ## :memo: Licença
 

@@ -8,19 +8,19 @@
   --text-color: white;
   --text-color2: aqua;
   --stroke-color: rgba(255, 255, 255, 0.5);
-  --bg-url: url(./assets/bg.png);
+  --bg-url: url(/assets/bg-mobile2.jpg);
   --switch-bg-url: url(/assets/moon-stars.svg);
 }
 
 .light {
   --text-color: black;
-  --bg-url: url(/assets/bg-mobile.jpg);
+  --bg-url: url(/assets/bg-mobile.png);
   --stroke-color: rgba(0, 0, 0, 0.5);
   --switch-bg-url: url(/assets/sun.svg);
 }
 
 body {
-  background: url(/assets/bg.png) no-repeat top center/cover;
+  background: var(--bg-url) no-repeat top center/cover;
   height: 100vh;
 }
 
